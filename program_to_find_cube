@@ -1,0 +1,16 @@
+#include <stdio.h>
+ void main()
+ { double number ,cube,;
+ printf("enter a number:");
+ scanf("%if",&number);
+ cube=numberb*number*number;
+ printf("the cube of %2if\n",number,cube);
+
+
+
+
+
+
+
+
+ }

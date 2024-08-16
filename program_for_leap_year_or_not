@@ -1,0 +1,17 @@
+#include <stdio.h>
+void main()
+{
+
+ printf("enter a year");
+ scanf("%d",&year);
+ if()
+ 
+
+
+
+
+
+
+
+
+}
